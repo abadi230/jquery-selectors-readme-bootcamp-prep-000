@@ -8,5 +8,5 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  retutn $('img:last');
+  retutn $('div img:last');
 }
