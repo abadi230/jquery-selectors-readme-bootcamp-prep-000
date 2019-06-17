@@ -1,7 +1,9 @@
 // declare your functions here...
-document.ready(function(){
-  
-  function paragraphSelector(){
+// document.ready(function(){
+//   
+// })
+
+function paragraphSelector(){
   return $('p');
 }
 
@@ -12,6 +14,3 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return $('#baby-ninja')
 }
-
-})
-
