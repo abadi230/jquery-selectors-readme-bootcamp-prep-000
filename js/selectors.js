@@ -6,3 +6,7 @@
 function paragraphSelector(){
   return $('p');
 }
+
+function lastImageSelector(){
+  retutn $('img:last');
+}
